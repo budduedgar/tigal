@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: ug.co.devinc.tigal.base
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, graphql, http-client, java, java-application, jdbc-ucp, kafka, log4j2, netty-server, openapi, oracle, readme, shade, spock, testcontainers, yaml]
